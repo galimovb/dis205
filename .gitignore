@@ -1,0 +1,14 @@
+# Project exclude paths
+/byte_protocol/target/
+/db_servlet_hw/target/
+/hw_json2/target/
+/hw_json_xml/target/
+/hw_parallel/target/
+/hw_ServerProtocol/target/
+/lab01_telegram_bot/target/
+/lab02_server_client/target/
+/lab08/target/
+/out/
+/servlet_hw2/target/
+/spring_lab/target/
+/tomcat/target/

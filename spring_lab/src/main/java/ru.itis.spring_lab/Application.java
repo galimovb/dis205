@@ -7,7 +7,7 @@ import ru.itis.spring_lab.config.Config;
 public class Application {
     public static void main(String[] args) {
         ApplicationContext context =
-                new AnnotationConfigApplicationContext(Config.class);
+                            new AnnotationConfigApplicationContext(Config.class);
         Main mainClass= (Main) context.getBean("main");
         mainClass.run();
 
